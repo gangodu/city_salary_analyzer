@@ -26,18 +26,18 @@ Future:
     Other Hadoop ecosystems will be added for analysis and the program itself will be more generic and abstract such that any input can create any output efficiently on any given data set.
     
 Nice to know:
-    Hadoop version      :   1.5.x [stable]
-    Map Reduce version  :   2.7
-    Eclipse IDE version :   Kepler
-    OS Developed On     :   Mac OSX Yosemite
-    OS Tested On        :   RHEL
-    Cluster Config      :   
-        Hadoop-
-            Name Node       :   1
-            Data Nodes      :   2
-        Map Reduce-
-            Job Trackers    :   1
-            Task Trackers   :   2
-        Replication Factor  :   2
-        Number of Mappers   :   10
-        Number of Reducers  :   2
+        Hadoop version      :   1.5.x [stable]
+        Map Reduce version  :   2.7
+        Eclipse IDE version :   Kepler
+        OS Developed On     :   Mac OSX Yosemite
+        OS Tested On        :   RHEL
+        Cluster Config      :   
+          Hadoop-
+              Name Node       :   1
+              Data Nodes      :   2
+          Map Reduce-
+              Job Trackers    :   1
+              Task Trackers   :   2
+          Replication Factor  :   2
+          Number of Mappers   :   10
+          Number of Reducers  :   2
