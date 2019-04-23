@@ -1,7 +1,5 @@
 # city salary analyzer
 
-A simple Map Reduce program that groups splits based on city and outputs total wages for each city combined.
-
     Working:
         Compilation:
             Compile the program to get the class file and create a JAR to run on top of HDFS in Hadoop
