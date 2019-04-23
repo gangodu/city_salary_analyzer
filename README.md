@@ -1,4 +1,4 @@
-# city salary analyzer
+# city based wages analyzer
 
     Working:
         Compilation:
